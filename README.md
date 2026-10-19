@@ -21,6 +21,12 @@
 
 </div>
 
+## 📸 Screenshot
+
+![Driver-tool application screenshot](docs/screenshots/application.png)
+
+Initial application window on Windows; no driver scan or update has been run.
+
 <p align="center"><img width="100%" src="assets/readme/progress-card.svg" alt="Driver Tool product roadmap progress — N/A because no canonical measurable roadmap exists" /></p>
 
 **Product roadmap progress:** N/A — there is no canonical measurable roadmap in this repository, so documentation does not invent a completion percentage.
